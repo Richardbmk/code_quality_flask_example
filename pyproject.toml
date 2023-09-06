@@ -2,7 +2,7 @@
 name = "flask-example"
 version = "0.1.0"
 description = ""
-authors = ["Ricardo Boriba Makuere <ricardo.makuere@cropster.com>"]
+authors = ["Ricardo Boriba Makuere <rdobmk@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
